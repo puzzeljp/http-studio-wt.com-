@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: "STUDIO WT",
+    siteUrl: "https://studio-wt.com"
   },
   plugins: [
     "gatsby-plugin-image",
